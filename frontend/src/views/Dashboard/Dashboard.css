@@ -1,0 +1,144 @@
+.custom-select {
+  width: 300px;
+  margin-bottom: 50px;
+}
+
+.progress-row {
+  margin-bottom: 40px;
+}
+
+.progress-row .card {
+  padding: 20px 10px;
+  align-items: center;
+}
+
+.progress-row .card-body {
+  align-items: center;
+  padding: 15px 0px;
+  width: 150px;
+  height: 150px;
+}
+
+.progress-row .card-header {
+  background:#55898e;
+  color: white;
+  font-weight: bold;
+  box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.5);
+  width: 80%;
+}
+
+.progress-row .card-footer {
+  background-color: white;
+  float: left;
+}
+
+.project-row { 
+  margin-top: 60px;
+}
+
+.project-row .card{
+  height: auto;
+  margin: 10px;
+}
+
+.status {
+  text-align: end;
+}
+
+.project-row .card-body {
+  padding: 30px !important;
+}
+
+.project-row .card-body p{
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.project-row .card-header {
+  padding: 20px !important;
+  background:#55898e;
+  color: white;
+  font-weight: bold;
+  box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.5);
+}
+
+.separator {
+  margin-top: 20px !important;
+  margin-bottom: 20px;
+}
+
+.count {
+  margin: 0px;
+  margin-right: auto;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 40px;
+}
+
+.count p {
+  margin: 0px;
+  padding: 0px;
+}
+
+.bold {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.separate {
+  padding: 0px;
+  margin: 2px 0;
+}
+
+
+.completed .CircularProgressbar-path {
+  stroke: green;
+}
+.completed .CircularProgressbar-trail {
+  stroke: gray;
+}
+.completed .CircularProgressbar-text {
+  fill: green;
+}
+.completed .CircularProgressbar-background {
+  fill: green;
+}
+
+.incompleted .CircularProgressbar-path {
+  stroke: rgb(242, 8, 8);
+}
+.incompleted .CircularProgressbar-trail {
+  stroke:gray;
+}
+.incompleted .CircularProgressbar-text {
+  fill: rgb(242, 8, 8);
+}
+.incompleted .CircularProgressbar-background {
+  fill: rgb(242, 8, 8);
+}
+
+
+.total .CircularProgressbar-path {
+  stroke: green;
+}
+
+.total .CircularProgressbar-trail {
+  stroke:rgb(242, 8, 8);
+}
+
+.total .CircularProgressbar-text {
+  fill: rgb(242, 8, 8);
+}
+
+.total .CircularProgressbar-background {
+  fill: rgb(242, 8, 8);
+}
+
+.progress-row .card {
+  border-radius: 20px !important;
+}
+
+.col.card {
+  border-radius: 20px !important;
+}
+

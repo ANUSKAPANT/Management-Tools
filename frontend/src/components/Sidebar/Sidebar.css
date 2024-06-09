@@ -1,0 +1,18 @@
+.logo {
+  font-size: 30px;
+  font-weight: bolder;
+  margin-bottom: 40px;
+}
+
+.nav-item .nav-link {
+  color: white;
+}
+
+.active{
+  text-decoration: underline !important;
+  font-weight: bolder !important;
+}
+
+.sidebar {
+  background-color: #55898e;
+}

@@ -1,0 +1,23 @@
+.toggle-view {
+  margin: 20px 0px;
+}
+
+.add-todo {
+  display: block;
+}
+
+.todo {
+  display: block;
+  padding: 10px;
+  margin-right: 2px;
+  width: 100%;
+}
+
+.todo .icon {
+  float: right;
+  color: lightgray;
+}
+
+.icon:hover {
+  color: black;
+}

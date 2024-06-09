@@ -1,0 +1,85 @@
+.navigation{
+  padding: 0px;
+}
+
+.nav {
+  margin-left: auto;
+}
+
+.navigation .nav-item {
+  margin: 10px;
+}
+
+.search-bar {
+  width: 50vw;
+  align-items: start;
+  float: left;
+  margin-right: 10vw !important;
+}
+
+.navigation .card {
+  max-height: 60px ;
+  text-align: center;
+}
+
+.navigation .card-body { 
+  padding-top: 11px;
+  margin: 0;
+}
+
+.navigation input {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.sm {
+  height: 60px;
+  width: 60px;
+}
+
+@media (max-width: 1400px) {
+  .search-bar {
+    width: 48vw;
+    margin-right: 80px !important;
+  }
+}
+@media (max-width: 1300px) {
+  .search-bar {
+    width: 40vw;
+    margin-right: 100px !important;
+  }
+}
+
+
+@media (max-width: 1100px) {
+  .search-bar {
+    width: 35vw;
+    margin-right: 100px !important;
+  }
+}
+
+@media (max-width: 1000px) {
+  .search-bar {
+    width: 40vw;
+    margin-right: 20px !important;
+  }
+}
+
+@media (max-width: 800px) {
+  .search-bar {
+    width: 200px;
+    margin-right: 20px !important;
+  }
+}
+
+/* h3 {
+  font-family: 'Comic Sans MS', cursive;
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: #55898e;
+  text-align: center;
+  letter-spacing: 2px;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+
+} */

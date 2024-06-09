@@ -1,0 +1,45 @@
+.task {
+  background-color: white;
+  border: 2px solid #55898e;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  width: 100%;
+  padding: 20px;
+  /* display: flex; */
+  /* align-items: center; */
+  /* justify-content: flex-start; */
+  gap: 10px;
+  touch-action: none;
+  margin: 5px 0px;
+}
+
+.checkbox {
+  height: 20px;
+  width: 20px;
+}
+
+.edit-button {
+  /* margin-left: auto; */
+  display: flex;
+}
+
+.actions {
+  background-color: white !important;
+  border: none !important;
+  color: black !important;
+  touch-action: none;
+}
+
+.actions:hover {
+  color: gray !important ;
+}
+
+.delete {
+  color: rgb(227, 29, 29) !important;
+}
+
+.badge {
+  width: fit-content !important; 
+  padding: 5px 6px !important;
+}
+

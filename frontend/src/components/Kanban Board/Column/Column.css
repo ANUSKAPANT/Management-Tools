@@ -1,0 +1,21 @@
+
+
+.column .card-header {
+  background:#55898e;
+  color: white;
+  font-weight: bold;
+  box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.5);
+  margin-bottom: 5px;
+}
+
+.add-btn {
+  width: 100%;
+  margin: 0px;
+  background-color: lightgrey !important;
+  color: black !important;
+  border: none !important;
+}
+
+.column .card-footer {
+  padding: 0px;
+}
